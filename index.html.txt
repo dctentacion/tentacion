@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LA CASA DEL SAZON</title>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> <!-- Incluye Google Fonts -->
+<style>
+  body {
+    background-color:  #a9a9a9;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    font-family: 'Lobster', cursive; /* Cambia el tipo de letra aquí */
+    text-align: center; /* Centra el título */
+    color: #000; /* Color del título */
+  }
+  .btn {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: PINK;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .btn-lg {
+    font-size: 24px;
+  }
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #0000FF;
+  }
+  button {
+    background-color: PINK;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  button a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .image-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div id="inicio">
+  <h1> LA CASA DEL SAZON</h1>
+ <p>" para el antojo no hay horario".</p>
+
+  <a href="#BOTONES" class="btn btn-lg">INICIAR</a> 
+  <a href="#emsad" class="btn btn-lg">Información General</a>
+
+  <div class="image-container">
+    <img src="ruta/de/tu/imagen.jpg" 
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+  <button><a href="#inicio">REGRESAR</a></button>
+  </div>
+
+  <div id="BOTONES">
+<br>
+
+    <button><a href="#seccion1">MISION</a></button> 
+    <button><a href="#VISION">VISION</a></button> 
+    <button><a href="#OBJETIVO">OBJETIVO</a></button> 
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+  <div id="seccion1">
+  <button><a href="#seccion1">MISION</a></button> 
+    <button><a href="#VISION">VISION</a></button> 
+    <button><a href="#OBJETIVO">OBJETIVO</a></button> 
+  </div>
+<br>
+
+    <p>Ser la mejor opción número uno cuando la gente busque algo rico a futuro para que puedan regresar y recomendar este lugar.</p>
+
+
+  <img src="https://imgs.search.brave.com/w5bSScVXQI3Q4AyfrGigcTtWfs0AnPvnNoyhkeKDJQU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV4aWNvZW5taWNv/Y2luYS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTEv/VGFjb3MtdGxhcXVl/cGFxdWUtcmVjZXRh/LTEwXzEtNTAweDUw/MC5qcGc"
+
+    <button><a href="#BOTONES">REGRESAR</a></button> 
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+  <div id="VISION">
+  <button><a href="#seccion1">MISION</a></button> 
+    <button><a href="#VISION">VISION</a></button> 
+    <button><a href="#OBJETIVO">OBJETIVO</a></button> 
+  </div>
+<br>
+    <p>Entregar y dar el mejor servicio a nuestros clientes y que se vayan satisfechos y que puedan seguir probando de nuestro rico sazón.</p>
+
+  <img src="https://imgs.search.brave.com/YmT_5yU_qQ7yIToofgf73YXxu-mZlYV3Raj4SfkZwE4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzIxZTQw/OC9yZWNldGFzLXBh/cmEtc2FiZXItY29t/by1oYWNlci1hbnRv/aml0b3MtbWV4aWNh/bm9zLXBhbnVjaG9z/LXl1Y2F0YW4vNDUw/XzEwMDAuanBn"
+
+    <button><a href="#BOTONES">REGRESAR</a></button>
+
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+  <div id="OBJETIVO">
+  <button><a href="#seccion1">MISION</a></button> 
+    <button><a href="#VISION">VISION</a></button> 
+    <button><a href="#OBJETIVO">OBJETIVO</a></button> 
+  </div>
+
+<br>
+<li>Mejorar la experiencia de nuestros clientes respecto a la comida, ambiente y servicio.</li>
+        <li>Otorgar la mejor calidad de alimentos así como de servicio.</li>
+        <li>Aumentar nuestras sucursales una por año.</li>
+        <li>Ampliar nuestros espacios así como nuestros menús.</li>
+        <li>Dar mejor servicio a nuestros clientes y que se vayan satisfechos.</li>
+  <img src="https://imgs.search.brave.com/sCN5dBUtpKYzwHDD8X7JeNEotRdP66GYHIlKqUjPvzE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZ3VpYWdh/c3Ryb25vbWljYS5t/eC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wNy90bGF5dWRh/LWNsYXNpY2EtY29u/LXRvcnRpbGxhLmpw/Zz9yZXNpemU9ODAw/LDUzMyZzc2w9MQ"
+
+    </ul>    <button><a href="#BOTONES">REGRESAR</a></button>
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+  <div id="emsad">
+  <a href="#introduccion" class="btn btn-lg">Introduccion</a>
+  <a href="#emsad11" class="btn btn-lg">Emsad 11</a>
+  <a href="#eslogan" class="btn btn-lg">Eslogan</a>
+
+ <button><a href="#inicio">REGRESAR</a></button>
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+
+ <div id="introduccion">
+
+<a href="#emsad11" class="btn btn-lg">Emsad 11</a>
+  <a href="#eslogan" class="btn btn-lg">Eslogan</a>
+  <a href="#introduccion" class="btn btn-lg">Introduccion</a>
+
+
+  
+   <p>Somos una empresa dedicada al buen sabor y a excelentes experiencias. Estamos dedicados al cliente y en brindar el mejor servicio posible. Hacerte sentir como en casa y que seamos tu lugar de preferencia cuando tengas un antojito.</p>
+  <img src="https://imgs.search.brave.com/YLEU7JQl6yyKk0RpFe_gN4wNgjAIEKe-2OxMDKT0ZqQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sYXJv/dXNzZWNvY2luYS5t/eC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMS9hbnRvaml0/b3MtMDAzLWxhcm91/c3NlLWNvY2luYV8w/LmpwZw"
+
+    <button><a href="#emsad">REGRESAR</a></button>
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+  <div id="emsad11">
+
+<a href="#emsad11" class="btn btn-lg">Emsad 11</a>
+  <a href="#eslogan" class="btn btn-lg">Eslogan</a>
+  <a href="#introduccion" class="btn btn-lg">Introduccion</a>
+
+
+    <h2>Emsad 11</h2>
+    <p> En el emsad 11 los alumnos son personas que consumen muchos alimentos y nosotros pensamos en porque no darles mas sabor a su voca .</p>
+    <button><a href="#emsad">REGRESAR</a></button>
+  </div>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+  <div id="eslogan">
+<a href="#emsad11" class="btn btn-lg">Emsad 11</a>
+  <a href="#eslogan" class="btn btn-lg">Eslogan</a>
+
+<br>
+
+ <p>" para el antojo no hay horario".</p>
+
+ <button><a href="#emsad">REGRESAR</a></button>
+  </div>
+
+</div>
+</body>
+</html>
